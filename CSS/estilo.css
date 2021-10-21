@@ -1,4 +1,4 @@
-.barra {
+.bar {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -11,6 +11,9 @@
 }
 
 .navbar {
-    top: 0;
-    background-color: antiquewhite;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    margin-left: 0;
+    background-color: bisque;
 }
