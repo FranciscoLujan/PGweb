@@ -1,0 +1,16 @@
+.barra {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    top: 0;
+}
+
+.items {
+    margin-right: 30px;
+    list-style: none;
+}
+
+.navbar {
+    top: 0;
+    background-color: antiquewhite;
+}
