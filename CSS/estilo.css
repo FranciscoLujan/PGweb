@@ -12,13 +12,9 @@
 
 .navbar {
     background-color: rgb(240, 166, 83);
-    height: 50px;
+    height: 30px;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
 }
 
-.pre-navbar {
-    height: 0px;
-    margin-right: 0px;
-}
